@@ -1,0 +1,509 @@
+Tree
+Chart
+JSON Input
+[
+{
+"Id": 83,
+"Name": "Edinburg2019",
+"Date": "2019-10-09T23:00:34",
+"Description": "",
+"FeaturedImage": "PEDI5672.jpg"
+},
+{
+"Id": 84,
+"Name": "vinter121019",
+"Date": "2019-10-12T12:05:38",
+"Description": "",
+"FeaturedImage": "APC_0118.JPG"
+},
+{
+"Id": 82,
+"Name": "Damage Inc. – A Tribute to Metallica 05.10.19",
+"Date": "2019-10-05T17:58:32",
+"Description": "",
+"FeaturedImage": "P1125550.jpg"
+},
+{
+"Id": 81,
+"Name": "Winter is coming",
+"Date": "2019-09-29T10:06:09",
+"Description": "",
+"FeaturedImage": "P1115319.JPG"
+},
+{
+"Id": 80,
+"Name": "Kveldsfotografering 26.09.19",
+"Date": "2019-09-26T19:20:45",
+"Description": "",
+"FeaturedImage": "P1114994.JPG"
+},
+{
+"Id": 77,
+"Name": "Testfotografering 2",
+"Date": "2019-09-25T16:30:12",
+"Description": "",
+"FeaturedImage": "IMG_0294.jpg"
+},
+{
+"Id": 78,
+"Name": "Testfotografering 1",
+"Date": "2019-09-25T16:35:07",
+"Description": "",
+"FeaturedImage": "IMG_0290.JPG"
+},
+{
+"Id": 74,
+"Name": "Grenseløsfestivalen 2019",
+"Date": "2019-09-24T01:56:52",
+"Description": "",
+"FeaturedImage": "APC_0089.JPG"
+},
+{
+"Id": 75,
+"Name": "Nesseby 15.09.19",
+"Date": "2019-09-24T01:56:52",
+"Description": "",
+"FeaturedImage": "P1114959.JPG"
+},
+{
+"Id": 72,
+"Name": "Ferdesmyra 21.09.19",
+"Date": "2019-09-24T01:40:25",
+"Description": "",
+"FeaturedImage": "P1114972.JPG"
+},
+{
+"Id": 73,
+"Name": "Vadsø 15.09.19",
+"Date": "2019-09-24T01:40:25",
+"Description": "",
+"FeaturedImage": "P1114929.JPG"
+},
+{
+"Id": 71,
+"Name": "Første nordlys høst 2019",
+"Date": "2019-09-24T01:40:24",
+"Description": "",
+"FeaturedImage": "IMG_0186.JPG"
+},
+{
+"Id": 70,
+"Name": "Return på Grenseløsfestivalen 2019",
+"Date": "2019-09-24T01:36:12",
+"Description": "",
+"FeaturedImage": "P1104494.JPG"
+},
+{
+"Id": 68,
+"Name": "Hot Club de Norvège + Hallgeir Pedersen",
+"Date": "2019-09-24T01:20:11",
+"Description": "",
+"FeaturedImage": "P1114805.jpg"
+},
+{
+"Id": 61,
+"Name": "Vestertana august",
+"Date": "2019-08-19T22:09:42",
+"Description": "Tur i august",
+"FeaturedImage": "vestertana1.jpg"
+},
+{
+"Id": 24,
+"Name": "Test av 500mm objektiv fra eBay",
+"Date": "2019-08-18T20:59:01",
+"Description": null,
+"FeaturedImage": "Photo-2019-08-18-18-41-56_0143.jpg"
+},
+{
+"Id": 35,
+"Name": "AltaLive 2019 - Sondre Justad",
+"Date": "2019-08-17T19:30:41",
+"Description": null,
+"FeaturedImage": "Photo-2019-08-17-22-05-51_0137.jpg"
+},
+{
+"Id": 55,
+"Name": "AltaLive 2019 - Hollow Hearts",
+"Date": "2019-08-17T19:28:14",
+"Description": null,
+"FeaturedImage": "Photo-2019-08-17-20-29-41_0131.jpg"
+},
+{
+"Id": 48,
+"Name": "Varangerfestivalen 2019 - Lisa Skoglund",
+"Date": "2019-08-10T19:17:28",
+"Description": null,
+"FeaturedImage": "Varangerfestivalen-2-7.jpg"
+},
+{
+"Id": 66,
+"Name": "Varangerfestivalen 2019 - Hellbilles",
+"Date": "2019-08-08T00:35:30",
+"Description": null,
+"FeaturedImage": "Varangerfestivalen-1-1.jpg"
+},
+{
+"Id": 44,
+"Name": "Pasvik og Neiden",
+"Date": "2019-08-04T18:33:37",
+"Description": null,
+"FeaturedImage": "Pasvik-1.jpg"
+},
+{
+"Id": 28,
+"Name": "Fototur til Tana",
+"Date": "2019-07-21T00:32:02",
+"Description": null,
+"FeaturedImage": "Seidafjellet-1.jpg"
+},
+{
+"Id": 36,
+"Name": "Trondheim",
+"Date": "2019-07-08T20:14:50",
+"Description": null,
+"FeaturedImage": "trondheim-1.jpg"
+},
+{
+"Id": 30,
+"Name": "Kotsøy",
+"Date": "2019-07-08T18:12:48",
+"Description": null,
+"FeaturedImage": "kotsoy-1.jpg"
+},
+{
+"Id": 47,
+"Name": "Gaula",
+"Date": "2019-07-08T17:11:09",
+"Description": null,
+"FeaturedImage": "gaula-3.jpg"
+},
+{
+"Id": 42,
+"Name": "Røros",
+"Date": "2019-07-08T15:07:02",
+"Description": null,
+"FeaturedImage": "roros-2.jpg"
+},
+{
+"Id": 67,
+"Name": "Dette må være feil vei",
+"Date": "2019-07-08T13:08:01",
+"Description": null,
+"FeaturedImage": "kjortefeil-2.jpg"
+},
+{
+"Id": 49,
+"Name": "Mora - Røros",
+"Date": "2019-07-08T13:04:30",
+"Description": null,
+"FeaturedImage": "mora-roros-5.jpg"
+},
+{
+"Id": 21,
+"Name": "Oxbergsbroen",
+"Date": "2019-07-06T21:33:08",
+"Description": null,
+"FeaturedImage": "946DA372-F8A5-4A10-8E19-4511D1534067.jpg"
+},
+{
+"Id": 43,
+"Name": "Siljan",
+"Date": "2019-07-05T21:12:59",
+"Description": null,
+"FeaturedImage": "5BD2E6BF-2D00-4CDC-8C78-F11ACDB6A162.jpg"
+},
+{
+"Id": 29,
+"Name": "Romakloster",
+"Date": "2019-07-02T14:10:33",
+"Description": null,
+"FeaturedImage": "C1B9C795-B789-47D2-8F07-EF76F1354086.jpg"
+},
+{
+"Id": 25,
+"Name": "Landskap på Gotland",
+"Date": "2019-07-02T14:07:42",
+"Description": null,
+"FeaturedImage": "D63406B7-799F-4627-BF69-3C8A877AA042.jpg"
+},
+{
+"Id": 45,
+"Name": "Kalksteinsgruve på Gotland",
+"Date": "2019-07-02T14:02:42",
+"Description": null,
+"FeaturedImage": "35A90949-7D62-4CC4-9D3E-4F355F09EA15.jpg"
+},
+{
+"Id": 19,
+"Name": "Dag 5",
+"Date": "2019-06-30T09:57:30",
+"Description": null,
+"FeaturedImage": "519EE127-9F01-40CE-AEDB-42F836639443.jpg"
+},
+{
+"Id": 13,
+"Name": "Fergetur til Gotland",
+"Date": "2019-06-29T09:56:42",
+"Description": null,
+"FeaturedImage": "74F57815-7531-4B18-8335-8039EAD3D0CA.jpg"
+},
+{
+"Id": 46,
+"Name": "Dag 3",
+"Date": "2019-06-28T20:27:45",
+"Description": null,
+"FeaturedImage": "B0E9E0CA-2AB3-45FF-BC5D-F18477FFA8B6.jpg"
+},
+{
+"Id": 39,
+"Name": "Mosjön",
+"Date": "2019-06-27T21:38:00",
+"Description": null,
+"FeaturedImage": "P1021913.jpg"
+},
+{
+"Id": 12,
+"Name": "Tester Panasonic Lumix G9 med fototur",
+"Date": "2019-06-24T00:16:57",
+"Description": null,
+"FeaturedImage": "_1021248.jpg"
+},
+{
+"Id": 59,
+"Name": "NDC 2019",
+"Date": "2019-06-20T05:44:06",
+"Description": null,
+"FeaturedImage": "D030F597-FE5F-4865-BA79-DBA84AE7B492.jpg"
+},
+{
+"Id": 40,
+"Name": "Varangerfjorden",
+"Date": "2019-06-12T00:37:01",
+"Description": null,
+"FeaturedImage": "791AAB1F-AF9D-4FCA-8819-E4F464E0ED8B.jpg"
+},
+{
+"Id": 52,
+"Name": ""Junivær"",
+"Date": "2019-06-09T23:29:58",
+"Description": null,
+"FeaturedImage": "F41A8814-90BC-49DD-BD46-1680FB66BA74.jpg"
+},
+{
+"Id": 58,
+"Name": "Oslo",
+"Date": "2019-06-02T12:17:05",
+"Description": null,
+"FeaturedImage": "61366001_346737029377061_1134959197047446481_n.jpg.jpg"
+},
+{
+"Id": 51,
+"Name": "Skien Mai 2019",
+"Date": "2019-05-27T19:54:51",
+"Description": null,
+"FeaturedImage": "APC_0247.jpg"
+},
+{
+"Id": 15,
+"Name": "Åpen scene på Kooperativet",
+"Date": "2019-05-25T19:52:25",
+"Description": null,
+"FeaturedImage": "60156323_1003051253417687_2425090665760128768_n.jpg.jpg"
+},
+{
+"Id": 17,
+"Name": "Fototur til Vardø/Persfjorden",
+"Date": "2019-05-25T08:09:13",
+"Description": null,
+"FeaturedImage": "48DA11A0-9E3D-4D71-B9E4-778925A7402F.jpg"
+},
+{
+"Id": 50,
+"Name": "Solnedgang",
+"Date": "2019-05-07T16:41:27",
+"Description": null,
+"FeaturedImage": "665330F8-A42A-44A5-A7A1-0EE9B2CABD17.jpg"
+},
+{
+"Id": 16,
+"Name": "The Gathering 2019",
+"Date": "2019-04-25T12:02:10",
+"Description": null,
+"FeaturedImage": "IMG_0839.jpg"
+},
+{
+"Id": 62,
+"Name": "Landsturneringen 2018 - Dag 1",
+"Date": "2018-07-07T20:38:00",
+"Description": null,
+"FeaturedImage": "070718landsturneringen-dag1-3.jpg"
+},
+{
+"Id": 38,
+"Name": "Mora",
+"Date": "2018-07-06T20:36:59",
+"Description": null,
+"FeaturedImage": "mora050718-4.jpg"
+},
+{
+"Id": 26,
+"Name": "Innsjø",
+"Date": "2018-07-04T20:34:21",
+"Description": null,
+"FeaturedImage": "mosjon040718-1.jpg"
+},
+{
+"Id": 65,
+"Name": "Vadsø havn",
+"Date": "2018-05-03T20:33:31",
+"Description": null,
+"FeaturedImage": "030518-Vadso-havn-1.jpg"
+},
+{
+"Id": 23,
+"Name": "Is",
+"Date": "2018-03-15T21:31:59",
+"Description": null,
+"FeaturedImage": "150318-is-1.jpg"
+},
+{
+"Id": 63,
+"Name": "Nordlys",
+"Date": "2018-03-15T20:45:15",
+"Description": null,
+"FeaturedImage": "150318-nordlys-3.jpg"
+},
+{
+"Id": 11,
+"Name": "Is",
+"Date": "2018-03-12T21:31:07",
+"Description": null,
+"FeaturedImage": "120318-is-2.jpg"
+},
+{
+"Id": 41,
+"Name": "Vadsø",
+"Date": "2018-03-07T21:30:22",
+"Description": null,
+"FeaturedImage": "070318-vadso-1.jpg"
+},
+{
+"Id": 54,
+"Name": "Vinterbilder",
+"Date": "2018-02-04T21:29:37",
+"Description": null,
+"FeaturedImage": "040218-vinter-tana-2.jpg"
+},
+{
+"Id": 31,
+"Name": "Sola",
+"Date": "2018-01-21T21:28:39",
+"Description": null,
+"FeaturedImage": "210118-sola-vadso-1.jpg"
+},
+{
+"Id": 22,
+"Name": "Vadsø",
+"Date": "2018-01-21T20:47:16",
+"Description": null,
+"FeaturedImage": "web_210118-4.jpg"
+},
+{
+"Id": 10,
+"Name": "Nordlys",
+"Date": "2017-12-30T20:49:33",
+"Description": null,
+"FeaturedImage": "DSC_4420.jpg"
+},
+{
+"Id": 64,
+"Name": "Vinterbilder",
+"Date": "2017-12-26T21:22:53",
+"Description": null,
+"FeaturedImage": "261217-vinterbilder-vadso-5.jpg"
+},
+{
+"Id": 14,
+"Name": "Vinterbilder",
+"Date": "2017-12-06T21:21:52",
+"Description": null,
+"FeaturedImage": "061217-vinterbilder-vadso-1.jpg"
+},
+{
+"Id": 37,
+"Name": "Nordlys",
+"Date": "2017-12-05T21:20:18",
+"Description": null,
+"FeaturedImage": "051217-nordlys-5.jpg"
+},
+{
+"Id": 18,
+"Name": "Nordlys",
+"Date": "2017-12-04T20:52:15",
+"Description": null,
+"FeaturedImage": "nordlys041217-100.jpg"
+},
+{
+"Id": 32,
+"Name": "Kveldsbilder",
+"Date": "2017-08-29T21:53:50",
+"Description": null,
+"FeaturedImage": "290817-Oslo-3.jpg"
+},
+{
+"Id": 60,
+"Name": "EPiServer TechForum",
+"Date": "2017-08-25T21:51:18",
+"Description": null,
+"FeaturedImage": "250817-episerverTechforum-2.jpg"
+},
+{
+"Id": 57,
+"Name": "Vigelandsparken og Aker brygge",
+"Date": "2017-08-24T21:48:59",
+"Description": null,
+"FeaturedImage": "240817-Vigelandsparken-AkerBrygge-4.jpg"
+},
+{
+"Id": 33,
+"Name": "Kveldsbilder",
+"Date": "2017-08-19T21:16:15",
+"Description": null,
+"FeaturedImage": "DSC_0248.jpg"
+},
+{
+"Id": 27,
+"Name": "Landsturneringen 2017 - Dag 5",
+"Date": "2017-07-05T21:39:00",
+"Description": null,
+"FeaturedImage": "050717landsturneringen-dag5-1.jpg"
+},
+{
+"Id": 53,
+"Name": "Landsturneringen 2017 - Dag 4",
+"Date": "2017-07-04T21:39:00",
+"Description": null,
+"FeaturedImage": "040717landsturneringen-dag4-3.jpg"
+},
+{
+"Id": 34,
+"Name": "Landsturneringen 2017 - Dag 3",
+"Date": "2017-07-03T21:39:00",
+"Description": null,
+"FeaturedImage": "030717landsturneringen-dag3-3.jpg"
+},
+{
+"Id": 20,
+"Name": "Landsturneringen 2017 - Dag 2",
+"Date": "2017-07-02T21:39:53",
+"Description": null,
+"FeaturedImage": "020717landsturneringen-dag2-1.jpg"
+},
+{
+"Id": 56,
+"Name": "Landsturneringen 2017 - Dag 1",
+"Date": "2017-07-01T21:37:25",
+"Description": null,
+"FeaturedImage": "010717landsturneringen-dag1-2.jpg"
+}
+]
